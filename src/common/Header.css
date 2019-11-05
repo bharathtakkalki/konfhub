@@ -1,0 +1,21 @@
+#logo{
+    height: 50px;
+    /* margin-top:15px; */
+}
+
+
+.app-header{
+    display: flex;
+    padding: 0px 50px;
+    background-color: rgb(47, 59, 89);
+    height: 80px;
+    align-items: center;
+}
+
+.header-search-box{
+    margin-left:auto;
+    background-color: #D7DCEA;
+    border-radius: 5px;
+    width:250px;
+    
+}
